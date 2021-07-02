@@ -1,5 +1,8 @@
 # Noti-master
 
+운전 중, 요리 중, 휴식 중과 같이 눈으로 직접 스마트폰의 알림을 캐치하기 힘들 때 유용한 어플리케이션
+
+
 ![그림1](https://user-images.githubusercontent.com/81530929/124284257-c4937c80-db87-11eb-976f-21c8b414ba5e.jpg)
 
 문자메시지, 카카오톡, sns어플 등의 알림을 TTS로 듣고 STT로 명령할 수 있는 어플리케이션
